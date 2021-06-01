@@ -1,0 +1,6 @@
+main: com.tbttk.a2b2tcmd.TwoBuildersTwoToolsCommands
+name: 2b2t-Cmds
+version: 0.01
+description: 
+author: 7753
+prefix: 2b2tCmds
